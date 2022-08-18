@@ -41,7 +41,7 @@ Sub-catagories
 .. note::
 	!Activating sub catagories will have a minus 4 on `Power`!
 	   
-Sub catagories are usually different depending on which AI base you are using.
+Sub catagories are different depending on which SEGPRT AI base you are using.
 
 Questions? check out :doc:`faq` or contact the `SEGPRT IT team`_.
 
