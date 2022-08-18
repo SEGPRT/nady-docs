@@ -1,17 +1,13 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to Nady's documentation!
+================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nady is the SEGPRT AI for everything you need!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`setup` section for setting up your SEGPRT model AI!
 
 .. note::
 
-   This project is under active development.
+   This documentation is under active development.
 
 Contents
 --------
