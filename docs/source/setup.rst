@@ -1,0 +1,28 @@
+Set Up!
+=======
+.. _setup:
+Setting up!
+-----------
+To set up any segprt model ai from a reset would be the personality menu!.
++--------------+----------------------------------+
+|Ai Personality|The basics of how your AI will act|
+|              |also changes the command range!   |
++==============+==================================+
+|Optimisation  |Changes how good the AI is at     |
+|              |handeling heavy cpu load.         |
++==============+==================================+
+|Speed         |Increases how fast the AI will    |
+|              |process info                      |
++==============+==================================+
+|Info          |Increases the amount of info the  |
+|              |AI has acsess to.                 |
++==============+==================================+
+|Power         |Give the AI more processing power |
+|              |                                  |
++=================================================+
+|Access        |Increases avaliable data          |
+|              |                                  |
++=================================================+
+|By-Pass       |Give the AI ability to get into   |
+|              |protected info                    |
++-------------------------------------------------+
