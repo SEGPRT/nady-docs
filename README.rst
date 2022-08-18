@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Nady Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This contains refereances to an Alternate Reality Game.
+this is the basic for commands on NADY 
+The segprt ai for anything you need!
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Documentation link here:
