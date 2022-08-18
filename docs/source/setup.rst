@@ -26,3 +26,5 @@ To set up any segprt model ai from a reset would be the personality menu!.
 |By-Pass       |Give the AI ability to get into   |
 |              |protected info                    |
 +-------------------------------------------------+
+
+**ANY AI WITH** ``Ai Personality`` **SET TO 0 WILL HAVE VERY STRICT COMMAND IMPUT DO AT YOUR OWN RISK**
