@@ -1,4 +1,4 @@
-Set Up!
+Set Up
 =======
 .. _setup:
 Setting up
@@ -42,3 +42,7 @@ Sub-catagories
 	!Activating sub catagories will have a minus 4 on `Power`!
 	   
 Sub catagories are usually different depending on which AI base you are using.
+
+Questions? check out :doc:`faq` or contact the `SEGPRT IT team`_.
+
+.. _SEGPRT IT team: SEGPRT.IT.TEAM@gmail.com
