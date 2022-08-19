@@ -20,3 +20,6 @@ Contents
 
    setup
    faq
+   tech
+   ac3s
+   settings

@@ -28,7 +28,7 @@ Why cant the AI list commands?
 
 I think the AI is sentiant!
 
-- make sure to check out our page on AI sentiance. :doc:`sentiance`
+- make sure to check out our page on AI :doc:`sentiance`.
 
 The AI keeps **overheating**!
 
@@ -50,6 +50,6 @@ The AI keeps **overheating**!
 |1000   |no longer working|
 +-------+-----------------+
 
-Any other questions! `contact us`_.
+Any other questions? `contact us`_.
 
 .. _contact us: SEGPRT.IT.TEAM@gmail.com
