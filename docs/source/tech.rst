@@ -10,6 +10,7 @@ Technical Prompt
 With the roll out of the new technical pannel we should list the new commands that come with it!
  
 Basic commands range from..
+
 .. note::
 	
 	More discriptions coming in near future, we are first working on patching some issues that came up durring this relase.
