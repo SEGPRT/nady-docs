@@ -17,11 +17,11 @@ syntax for changing a setting is YES (on) NO (off) [NUMBER] which number the opt
 
 ERROR CODES:
 
-[Syntax Error], check how you spelt out the command, should not be an for AIs with more command range.
+[Syntax Error], check how you spelt out the command, should not be an issue for AIs with more command range.
 
 [Sorry protection is ON], the option you are trying to use is locked behind protection, reference above paragraph on protection.
 
-[Option doesnt exist], the option you picked does not exist, make sure it wasnt 0 or a number above how many options there are
+[Option doesnt exist], the option you picked does not exist, make sure it wasn't 0, or a number above the amount of options there are
 
 [Loading Failed], try again if the issue persists contact the SEGPRT IT team.
 
