@@ -1,9 +1,9 @@
-Welcome to Nady's documentation!
+Welcome to the SEGPRT wiki!
 ================================
 
-Nady is the SEGPRT AI for everything you need!
+SEGPRT is a very complicated ARG(`Alternate Reality Game`).
 
-Check out the :doc:`setup` section for setting up your SEGPRT model AI!
+Check out the :doc:`nadex` section for setting up your SEGPRT model AI!
 
 .. note::
 
@@ -18,8 +18,4 @@ Contents
 
 .. toctree::
 
-   setup
-   faq
-   tech
-   ac3s
-   settings
+   nady/nadex
