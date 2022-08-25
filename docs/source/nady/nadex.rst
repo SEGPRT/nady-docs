@@ -19,5 +19,5 @@ Nady Index
    :name: sec-vertwenty
 
    settings
-   setup
+   ac3s
    tech

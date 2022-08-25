@@ -3,7 +3,7 @@ Welcome to the SEGPRT wiki!
 
 SEGPRT is a very complicated ARG(`Alternate Reality Game`).
 
-Check out the :doc:`nadex` section for setting up your SEGPRT model AI!
+Check out the :doc:`nady/nadex` section for everything regarding NADY!
 
 .. note::
 
@@ -17,5 +17,13 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 2
+   :caption: All things nady.
+   :name: sec-nady
    nady/nadex
+
+.. toctree::
+   :maxdepth: 2
+   :caption: General Shyhoma.
+   :name: sec-shy
+   basics/dims
