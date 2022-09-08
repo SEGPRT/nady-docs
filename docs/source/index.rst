@@ -45,3 +45,4 @@ The main documentation for this site is seperated into the folowing...
 
    basics/intro
    basics/dims
+   basics/class
