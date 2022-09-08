@@ -1,29 +1,40 @@
 Welcome to the SEGPRT wiki!
 ================================
 
-SEGPRT is a very complicated ARG(`Alternate Reality Game`).
+Welcome to the player operated documentation of `segprt args <https://discord.gg/FGY6r9d6xq>` a complicated ARG(Alternate Reality Game) If you are new to the SEGPRT args we recomend you check out :doc:`basics/intro` to get an idea of what this documention has to offer.
 
-Check out the :doc:`nady/nadex` section for everything regarding NADY!
+The table of contents below and in the sidebar should let you easily access the documentation for your topic of interest. You can also use the search function in the top left corner.
+
+See an issue in the documentation? Message marko of Shyhoma MB (Marko#0688) with your issue.
 
 .. note::
 
    This documentation is under active development.
+   english is the only avaliable language at this point.
+
+.. tip::
+
+   Have any questions? Ask the members of shyhoma mb, look for any players with the role *vet* or *veteran*.
 
 .. image:: https://readthedocs.org/projects/nady/badge/?version=latest
     :target: https://nady.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
-Contents
---------
+
+The main documentation for this site is seperated into the folowing...
 
 .. toctree::
    :maxdepth: 2
-   :caption: All things nady.
+   :caption: All things nady
    :name: sec-nady
+
    nady/nadex
 
+
 .. toctree::
-   :maxdepth: 2
-   :caption: General Shyhoma.
-   :name: sec-shy
+   :maxdepth: 1
+   :caption: General basics
+   :name: sec-basics
+
+   basics/intro
    basics/dims

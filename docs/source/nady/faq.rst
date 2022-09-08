@@ -28,7 +28,7 @@ Why cant the AI list commands?
 
 I think the AI is sentiant!
 
-- make sure to check out our page on AI :doc:`sentiance`.
+- try an reset of the ai's personality.
 
 The AI keeps **overheating**!
 
