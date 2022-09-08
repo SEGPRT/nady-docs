@@ -3,7 +3,7 @@ Welcome to the SEGPRT wiki!
 
 Welcome to the player operated documentation of `segprt args`_  a complicated ARG(Alternate Reality Game) If you are new to the SEGPRT args we recomend you check out :doc:`basics/intro` to get an idea of what this documention has to offer.
 
-.. _segprt args: https://discord.gg/FGY6r9d6xq
+.. _segprt args: https://discord.gg/kScZ498uVs
 
 
 The table of contents below and in the sidebar should let you easily access the documentation for your topic of interest. You can also use the search function in the top left corner.
