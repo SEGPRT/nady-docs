@@ -27,4 +27,4 @@ ERROR CODES:
 
 If you get any other error code; contact a member of the SEGPRT IT team.
  
-For more pages relateing to **20.0.1** check out :doc:`nady/tech`, and :doc:`nady/ac3s`.
+For more pages relateing to **20.0.1** check out :doc:`tech`, and :doc:`ac3s`.

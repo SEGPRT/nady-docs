@@ -19,4 +19,4 @@ Our most ambitious project yet. gain quick slightly protected access to hyperlin
 
 `...`
 
-For more pages relateing to **20.0.1** check out :doc:`nady/tech`, and :doc:`nady/settings`.
+For more pages relateing to **20.0.1** check out :doc:`tech`, and :doc:`settings`.

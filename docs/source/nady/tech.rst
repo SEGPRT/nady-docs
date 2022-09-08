@@ -33,4 +33,4 @@ Basic commands range from..
 
 A few commands also have functional oposites. Like /hide and /show, be careful /show requires a password from a higher up, or from a segpert IT team member.
 
-For more pages relateing to **20.0.1** check out :doc:`nady/ac3s`, and :doc:`nady/settings`.
+For more pages relateing to **20.0.1** check out :doc:`ac3s`, and :doc:`settings`.

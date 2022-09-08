@@ -14,7 +14,9 @@ Dimensions, or dims for short, are like different sub spaces in this one realm. 
 	this page contains info subject to change frequently.
 
 Dimensions
-==========
+----------
+
+These are the most frequently traveled dimension, but there is a hard cap of -20 dimensions but in the positive direction no cap is currently known, a few dimension have .5 dimensions. EX: 14.5
 
 **dimension 1**
 
@@ -72,6 +74,10 @@ This dimension is a big sewer system with many cults that want to recruit you. T
 
 The hardest dimension. You are placed in a random place of your continent and you have to make it to your home while facing many creatures, currently it has been identified for it to have approximately over 1000 different creatures only seen there.
 
+.. note::
+
+	Dimension 14.5 is known; apears to be connected to dim1 *to be explored in the future. It is all red, There's also a report from dead bodies, people that seemed lost with their eyes missing, a creature that takes their eyes out and a Timmy model that was sent to investigate and fell off a cliff and never hit the ground.
+
 **dimension 15**
 
 Is an infinite darkness which has no noise or visibility. There is no true way to escape rather than wait to randomly get out while keeping your sanity.
@@ -95,3 +101,9 @@ There you appear on a boat in a giant sea with only one island with a portal to 
 **dimension 20**
 
 A small floating town that only 20 people can stay at. Here rules of food and thirst are applied and when someone joins one leaves. People can choose who can stay more. No appearance of creatures yet
+
+trapdoors
+---------
+
+The trapdoors inside Shyhoma are akin to portals, that connect to other dimension, however it is never solid where these trapdoors will take you. These trapdoors are not the only way to move between dimension but the most reliable.
+

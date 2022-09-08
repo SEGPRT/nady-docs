@@ -16,4 +16,4 @@ About SEGPRT
 
 Segprt is a secret organisation tasked with gathering information, containing, countering, keeping hidden, and ultimately destroying Shyhoma.
 
-Shyhoma is composed of :doc:`dims`, they flow fluidly, swaping order when you go through a trapdoor, and having a full list of -20 to 100 dimentions 1-20 fully being explored as they have solid methods of arriving at them.
+Shyhoma is composed of dimension(:doc:`dims`), they flow fluidly, swaping order when you go through a trapdoor, and having a full list of -20 to 100 dimension 1-20 fully being explored as they have solid methods of arriving at them.

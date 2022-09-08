@@ -1,7 +1,10 @@
 Welcome to the SEGPRT wiki!
 ================================
 
-Welcome to the player operated documentation of `segprt args <https://discord.gg/FGY6r9d6xq>` a complicated ARG(Alternate Reality Game) If you are new to the SEGPRT args we recomend you check out :doc:`basics/intro` to get an idea of what this documention has to offer.
+Welcome to the player operated documentation of `segprt args`_  a complicated ARG(Alternate Reality Game) If you are new to the SEGPRT args we recomend you check out :doc:`basics/intro` to get an idea of what this documention has to offer.
+
+.. _segprt args: https://discord.gg/FGY6r9d6xq
+
 
 The table of contents below and in the sidebar should let you easily access the documentation for your topic of interest. You can also use the search function in the top left corner.
 
@@ -10,7 +13,7 @@ See an issue in the documentation? Message marko of Shyhoma MB (Marko#0688) with
 .. note::
 
    This documentation is under active development.
-   english is the only avaliable language at this point.
+
 
 .. tip::
 
