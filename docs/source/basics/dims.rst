@@ -16,6 +16,8 @@ Dimensions, or dims for short, are like different sub spaces in this one realm. 
 Dimensions
 ----------
 
+.. _dimension:
+
 These are the most frequently traveled dimension, but there is a hard cap of -20 dimensions but in the positive direction no cap is currently known, a few dimension have .5 dimensions. EX: 14.5
 
 **dimension 1**

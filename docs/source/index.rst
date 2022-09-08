@@ -10,6 +10,10 @@ The table of contents below and in the sidebar should let you easily access the 
 
 See an issue in the documentation? Message marko of Shyhoma MB (Marko#0688) with your issue.
 
+This documentation is in colaboration with the notes, the documentation focuses more on explaining why it happened, while the notes explains what is happeing. `main notes`_
+
+.. _main notes: https://docs.google.com/document/d/1XcfbMoUaNay13snhfUz8BD6YGs8yFcXfuzCR6rtyusU/edit
+
 .. note::
 
    This documentation is under active development.
