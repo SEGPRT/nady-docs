@@ -57,7 +57,7 @@ The main documentation for this site is seperated into the folowing...
 
 .. toctree::
    :maxdepth: 1
-   :caption: Shyhoma MB (arg3)
+   :caption: ShyhomaMB (arg3)
    :name:sec-mb
 
-   MB/membdex
+   MB/memdex

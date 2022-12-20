@@ -1,4 +1,4 @@
-Deadline characters
+ShyhomaMB characters
 ===================
 
 .. note::
