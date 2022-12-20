@@ -44,5 +44,20 @@ The main documentation for this site is seperated into the folowing...
    :name: sec-basics
 
    basics/intro
+   basics/SEGPRT
    basics/dims
    basics/class
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Shyhoma Deadline (arg2)
+   :name:sec-dline
+
+   deadine/deddex
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Shyhoma MB (arg3)
+   :name:sec-mb
+
+   MB/membdex
